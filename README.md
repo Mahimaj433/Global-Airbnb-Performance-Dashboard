@@ -17,7 +17,7 @@ The goal was to transform over 5 million raw review data points into actionable 
 - **Power Query (M):** For data cleaning, handling missing values, and data transformation.
 - **DAX (Data Analysis Expressions):** Created complex measures for cumulative totals, Pareto analysis, and year-over-year growth.
 
-## 📈 Key Insights & Findings
+## Key Insights & Findings
 - **Market Dominance:** Paris, NYC, and Sydney account for nearly 50% of all listings and reviews in the dataset. 
 - **The "Pareto" Behavior:** 98.8% of reviewers leave 3 reviews or less, indicating a high volume of one-time or infrequent travelers.
 - **Impact of Regulations:** A noticeable restraint in new listings occurred in 2016 and 2017 due to tightening local regulations, though the platform remained profitable.
