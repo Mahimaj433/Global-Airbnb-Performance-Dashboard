@@ -4,8 +4,6 @@
 ## Project Overview
 This project involves building a comprehensive end-to-end Power BI dashboard to analyze Airbnb's global market performance. The analysis covers growth trends, city-level market share, and consumer behavioral insights such as review frequency and host verification status.
 
-The goal was to transform over 5 million raw review data points into actionable business insights for stakeholders looking to understand market maturity and customer trust.
-
 ## Key Business Questions Addressed
 - **Growth & Maturity:** How has listing volume evolved over time, and what was the impact of COVID-19?
 - **Market Share:** Which cities dominate in terms of listings and reviews?
