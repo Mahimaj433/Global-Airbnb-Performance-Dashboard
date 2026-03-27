@@ -1,6 +1,5 @@
 # Global Airbnb Performance Dashboard
 
-
 ## Project Overview
 This project involves building a comprehensive end-to-end Power BI dashboard to analyze Airbnb's global market performance. The analysis covers growth trends, city-level market share, and consumer behavioral insights such as review frequency and host verification status.
 
@@ -12,7 +11,7 @@ This project involves building a comprehensive end-to-end Power BI dashboard to 
 
 ## Tools & Tech Stack
 - **Power BI Desktop:** For data modeling, DAX development, and visualization.
-- **Power Query (M):** For data cleaning, handling missing values, and data transformation.
+- **Power Query:** For data cleaning, handling missing values, and data transformation.
 - **DAX (Data Analysis Expressions):** Created complex measures for cumulative totals, Pareto analysis, and year-over-year growth.
 
 ## Key Insights & Findings
